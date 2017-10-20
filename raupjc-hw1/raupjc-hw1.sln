@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2002
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "raupjc-hw1", "raupjc-hw1\raupjc-hw1.csproj", "{161FE907-4115-463C-BA06-C2E5AD4B25DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pong", "Game1\Pong.csproj", "{DE04520D-0C5A-4066-8D6F-8E77930A1DE5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{161FE907-4115-463C-BA06-C2E5AD4B25DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{161FE907-4115-463C-BA06-C2E5AD4B25DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{161FE907-4115-463C-BA06-C2E5AD4B25DD}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{161FE907-4115-463C-BA06-C2E5AD4B25DD}.Debug|x86.Build.0 = Debug|Any CPU
+		{161FE907-4115-463C-BA06-C2E5AD4B25DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{161FE907-4115-463C-BA06-C2E5AD4B25DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{161FE907-4115-463C-BA06-C2E5AD4B25DD}.Release|x86.ActiveCfg = Release|Any CPU
+		{161FE907-4115-463C-BA06-C2E5AD4B25DD}.Release|x86.Build.0 = Release|Any CPU
+		{DE04520D-0C5A-4066-8D6F-8E77930A1DE5}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{DE04520D-0C5A-4066-8D6F-8E77930A1DE5}.Debug|x86.ActiveCfg = Debug|x86
+		{DE04520D-0C5A-4066-8D6F-8E77930A1DE5}.Debug|x86.Build.0 = Debug|x86
+		{DE04520D-0C5A-4066-8D6F-8E77930A1DE5}.Release|Any CPU.ActiveCfg = Release|x86
+		{DE04520D-0C5A-4066-8D6F-8E77930A1DE5}.Release|x86.ActiveCfg = Release|x86
+		{DE04520D-0C5A-4066-8D6F-8E77930A1DE5}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9245EF3A-90C0-4983-83F5-8C86533684DB}
+	EndGlobalSection
+EndGlobal
